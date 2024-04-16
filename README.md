@@ -1,10 +1,5 @@
-<style>
-  .Blue {
-    color: #A5B4FC; /* Cambia el color del texto a azul */
-  }
 
-</style>
-<h1 class="blue" >Hi,I'm Brayhan Daniel Niebla👋</h1>
+<h1 style="color: #A5B4FC;" >Hi,I'm Brayhan Daniel Niebla👋</h1>
 
 I'm working on my readme in this moment, but for the moment I can tell you this:
 

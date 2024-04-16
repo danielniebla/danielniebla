@@ -16,7 +16,8 @@ I like to do things what looks easy, fluid, natural and maybe the people see and
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/danielniebla/github-readme-stats?color=0088ff" />
     </a>
   </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielniebla&show_icons=true&theme=radical)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=danielniebla&show_icons=true&theme=radical"/>
 <!--
 **danielniebla/danielniebla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

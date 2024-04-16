@@ -1,4 +1,4 @@
-### Hi,I'm Brayhan Daniel Niebla👋
+<h1 text-color="#1D4ED8">Hi,I'm Brayhan Daniel Niebla👋</h1>
 
 I'm working on my readme in this moment, but for the moment I can tell you this:
 

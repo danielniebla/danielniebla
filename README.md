@@ -101,8 +101,10 @@ I like to do things what looks easy, fluid, natural and maybe the people see and
   </tr>
 </table>
 <br>
+<p> Note: github is no detecting the lenguaje of some projects(im working in it)</p>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielniebla&show_icons=true&title_color=6459f7&text_color=1772e8&bg_color=080808&hide_border=true&locale=en&layout=compact" alt="danielniebla" /></div>
 <br>
+
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielniebla&theme=dark" alt="danielniebla" /></div>
 
 

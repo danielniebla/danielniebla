@@ -1,10 +1,11 @@
 
 <h1 media="(text_color:#A5B4FC)" >Hi,I'm Brayhan Daniel Niebla👋</h1>
 
-I'm working on my readme in this moment, but for the moment I can tell you this:
+I'm constanly working on my readme, but for the moment I can tell you this:
 
-I'm a software engineer jr. I like to do a frontend develops but if I need I can do some backend.
-I like to do things what looks easy, fluid, natural and maybe the people see and think is less than the reality is because of the easy to understand, also I like to do things what the people like to use because is not only do something to function, I think everything Is already done in this life but I can do it more comfortable to the final task.
+I'm a Junior Software Engineer with a passion for front-end development, though I'm comfortable working on the backend when needed. I strive to create user interfaces that feel seamless, fluid, and intuitive. Where the complexity is hidden, and everything looks simple and easy to use.
+
+I believe that most things in tech have already been built, but there's always room to improve how people interact with them. My goal is to create solutions that are not just functional, but enjoyable to use, focusing on making the experience more comfortable and satisfying for the user.
 <div align="center">
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=danielniebla&show_icons=true&theme=tokyonight"/>
 </div>

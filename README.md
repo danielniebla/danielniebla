@@ -102,24 +102,14 @@ I believe that most things in tech have already been built, but there's always r
   </tr>
 </table>
 <br>
-<p> Note: the card on the bottom isn't ok of everything</p>
+<p>Note: the card at the bottom is not quite right.</p>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielniebla&show_icons=true&title_color=6459f7&text_color=1772e8&bg_color=080808&hide_border=true&locale=en&layout=compact" alt="danielniebla" /></div>
 <br>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielniebla&theme=dark" alt="danielniebla" /></div>
 
 
-<!--
-**danielniebla/danielniebla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project that could make easier the static web development.
+- 🌱 I’m currently learning UX/UI in coursera
+- 👯 I’m looking to collaborate on software development
